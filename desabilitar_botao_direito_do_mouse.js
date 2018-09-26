@@ -20,4 +20,3 @@ document.onclick=reEnable
 
 </script>
 
-<!-- Fim do Código --> 
