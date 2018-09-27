@@ -1,7 +1,7 @@
 # scripts
 Repositórios de vários scripts com funções úteis que já utilizei em alguns trabalhos e realmente funcionaram.
 
-**Banner Rotativo com JavaScript** [Ver Código](https://doni7brandao.github.io/scripts/banner_rotativo_JavaScript/banners.js).
+**Banner Rotativo com JavaScript** > [Ver Código](https://doni7brandao.github.io/scripts/banner_rotativo_JavaScript/banners.js).
 
 Explicação:
 
