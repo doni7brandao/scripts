@@ -6,9 +6,9 @@ Repositórios de vários scripts com funções úteis que já utilizei em alguns
 
 **Explicação:**
 
-Esta linha do código: `(Math.random()*1);` você aumenta de acordo com o tanto de anúncios, e nunca deve começar `0` e sempre do `1`.
+Esta linha do código: `(Math.random()*1);` você aumenta de acordo com a quantidade de anúncios, e nunca deve começar do `0`, é sempre do `1`.
 
-Já nessa: `MNews[0]=` você diz a quantidade de imagens que seu banner irá rotacionar e deve sempre começar do `0` a seguir.
+Já nessa: `MNews[0]=` você diz a sequência dos anúncios no seu banner e deve sempre começar do `0` a seguir.
 
 **Exemplo:**
 + 0 é o Primeiro
