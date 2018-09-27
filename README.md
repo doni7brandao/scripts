@@ -16,4 +16,4 @@ Exemplo:
 1 é o Segundo
 2 é o Terceiro
 
-***Observação:*** Mesmo que contenha varios banners, ele vai mostrar 1 banner por vez e quando atualizar a página, o banner vai trocando, funciona dessa forma ainda, infelizmente! Mas, o propósito aqui é melhorá-lo, então seja bem vindo com a sua contribuição.
+:warning:**_Observação:_** Mesmo que contenha varios banners, ele vai mostrar 1 banner por vez e quando atualizar a página, o banner vai trocando, funciona dessa forma ainda, infelizmente! Mas, o propósito aqui é melhorá-lo, então seja bem vindo com a sua contribuição.
