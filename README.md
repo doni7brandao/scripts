@@ -5,7 +5,7 @@ Repositórios de vários scripts com funções úteis que já utilizei em alguns
 
 Explicação:
 
-(Math.random()*1);
+**_(Math.random()*1);_**
 
 Nesse codigo como esta acima, você aumenta, de acordo com o tanto de anúncios, e nunca deve começar 0 e sempre do 1.
 
