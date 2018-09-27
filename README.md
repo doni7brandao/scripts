@@ -1,7 +1,7 @@
 # scripts
 Repositórios de vários scripts com funções úteis que já utilizei em alguns trabalhos e realmente funcionaram.
 
-**Banner Rotativo com JavaScript** [Copiar Código](https://developers.google.com/apps-script/guides/services/quotas).
+**Banner Rotativo com JavaScript** [Ver Código](https://doni7brandao.github.io/scripts/banner_rotativo_JavaScript/banners.js).
 
 Explicação:
 
@@ -12,8 +12,8 @@ Nesse codigo como esta acima, você aumenta, de acordo com o tanto de anúncios,
 ***MNews[0]=*** esse número deve sempre começar do 0 aseguir.
 
 Exemplo:
-+0 é o Primeiro
-+1 é o Segundo
-+2 é o Terceiro
++ 0 é o Primeiro
++ 1 é o Segundo
++ 2 é o Terceiro
 
 :warning:**_Observação:_** Mesmo que contenha varios banners, ele vai mostrar 1 banner por vez e quando atualizar a página, o banner vai trocando, funciona dessa forma ainda, infelizmente! Mas, o propósito aqui é melhorá-lo, então seja bem vindo com a sua contribuição.
